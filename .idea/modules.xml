@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Evening Class.iml" filepath="$PROJECT_DIR$/.idea/Evening Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Folder/.idea/Folder.iml" filepath="$PROJECT_DIR$/../Folder/.idea/Folder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MeFamily/.idea/MeFamily.iml" filepath="$PROJECT_DIR$/../MeFamily/.idea/MeFamily.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Pythonconditions/.idea/Python-conditions.iml" filepath="$PROJECT_DIR$/../Pythonconditions/.idea/Python-conditions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Template1/.idea/Template1.iml" filepath="$PROJECT_DIR$/../Template1/.idea/Template1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../assignment1/.idea/assignment1.iml" filepath="$PROJECT_DIR$/../assignment1/.idea/assignment1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../command/.idea/command.iml" filepath="$PROJECT_DIR$/../command/.idea/command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../practise/.idea/practise.iml" filepath="$PROJECT_DIR$/../practise/.idea/practise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test2/.idea/test2.iml" filepath="$PROJECT_DIR$/../test2/.idea/test2.iml" />
+    </modules>
+  </component>
+</project>
